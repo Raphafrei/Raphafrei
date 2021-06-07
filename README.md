@@ -13,3 +13,5 @@
 - 💻 My Behance - https://www.behance.net/raphafrei;
 
 - 💻 My Knowledge - C#, C, Java, JavaScript, Python and PHP;
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
