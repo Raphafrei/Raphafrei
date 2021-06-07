@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raphafrei;
 
-- 👀 I’m interested in games development;
+- 👀 I'm currently working as Intern on Adient PLC. My current area is IT Help Desk.
 
 - 🌱 I’m currently studying Computer Science on Brazil;
 
