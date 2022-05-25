@@ -33,11 +33,3 @@ namespace RaphaelFrei{
     }
 }
 ```
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfrei&layout=compact&langs_count=8&theme=dracula" />
-</a>
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelfrei&show_icons=true&theme=radical" />
-</a>
