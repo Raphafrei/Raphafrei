@@ -31,6 +31,7 @@ namespace RaphaelFrei{
                 CSharp::class,
                 Python::class,
                 OpenEdgeABL::class,
+                COBOL::class,
                 PHP::class,
                 HTML::class,
                 JavaScript::class,
