@@ -34,7 +34,7 @@ namespace RaphaelFrei{
                 COBOL::class,
                 PHP::class,
                 HTML::class,
-                JavaScript::class,
+                Java::class,
                 ActionScript::class,
                 Swift::class
             ];
