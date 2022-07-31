@@ -35,6 +35,7 @@ namespace RaphaelFrei{
                 PHP::class,
                 HTML::class,
                 Java::class,
+                JavaScript::class,
                 ActionScript::class,
                 Swift::class
             ];
