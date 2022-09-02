@@ -29,6 +29,7 @@ namespace RaphaelFrei{
             return [
                 C::class,
                 CSharp::class,
+                C++::class,
                 Python::class,
                 OpenEdgeABL::class,
                 COBOL::class,
