@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/raphaelfrei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfrei&layout=compact&langs_count=8&theme=dracula&hide=c%2B%2B"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfrei&layout=compact&langs_count=8&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelfrei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a></div>    
  
