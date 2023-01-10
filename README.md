@@ -38,7 +38,8 @@ namespace RaphaelFrei{
                 Java::class,
                 JavaScript::class,
                 ActionScript::class,
-                Swift::class
+                Swift::class,
+                Assembly::class
             ];
         }
     }
