@@ -18,8 +18,8 @@ namespace RaphaelFrei{
             return [
                 'workplace' => [
                     'company'   => 'Adient PLC',
-                    'position'  => 'Intern/Student',
-                    'role'      => 'Software Developer'
+                    'position'  => 'IT Analyst',
+                    'role'      => 'Programmer'
                 ]
             ];
 
