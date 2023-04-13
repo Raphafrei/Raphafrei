@@ -16,7 +16,7 @@
 
 <h3>Programming Languages</h3>
 <p float="left" align="left">
-  <img src="https://scontent.fcgh28-1.fna.fbcdn.net/v/t39.30808-6/326580899_1279899515892947_5134792827539494973_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eHBgBlSlH7IAX8kqucF&_nc_zt=23&_nc_ht=scontent.fcgh28-1.fna&oh=00_AfAXjiZBx04gNTDdYAI42HK3o1wXqZVzcerbaQ0VVkMuFA&oe=64215AC6" width="30"/>
+  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"/>
@@ -33,7 +33,7 @@
 
 <h3>Database</h3>
 <p float="left" align="left">
-  <img src="https://scontent.fcgh28-1.fna.fbcdn.net/v/t39.30808-6/326580899_1279899515892947_5134792827539494973_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eHBgBlSlH7IAX8kqucF&_nc_zt=23&_nc_ht=scontent.fcgh28-1.fna&oh=00_AfAXjiZBx04gNTDdYAI42HK3o1wXqZVzcerbaQ0VVkMuFA&oe=64215AC6" width="30"/>
+  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/826px-Microsoft_Office_Excel_%282019–present%29.svg.png" width="30"/>
   <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="30"/>
@@ -50,7 +50,7 @@
 
 <h3>Web Development/Front End</h3>
 <p float="left" align="left">
-  <img src="https://scontent.fcgh28-1.fna.fbcdn.net/v/t39.30808-6/326580899_1279899515892947_5134792827539494973_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eHBgBlSlH7IAX8kqucF&_nc_zt=23&_nc_ht=scontent.fcgh28-1.fna&oh=00_AfAXjiZBx04gNTDdYAI42HK3o1wXqZVzcerbaQ0VVkMuFA&oe=64215AC6" width="30"/>
+  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="30"/>
 </p>
