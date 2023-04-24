@@ -5,9 +5,6 @@
   <a href="https://github.com/raphaelfrei">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphaelfrei&layout=compact&langs_count=8&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raphaelfrei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" /> 
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="30"/>
 </a></div>    
 
 <h3>🥇Specialised in:</h3>
@@ -21,6 +18,9 @@
 <p float="left" align="left">
   <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" /> 
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="30"/>
 </p>
 
 <h3>Programming Languages</h3>
