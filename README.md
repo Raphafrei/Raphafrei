@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" width="30"/>
 </p>
 
-<h3>Database</h3>
+<h3>Databases</h3>
 <p float="left" align="left">
   <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" width="30"/>
