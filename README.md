@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/raphaelfrei">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphaelfrei&layout=compact&langs_count=8&theme=dracula&exclude_repo=financial-manager"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphaelfrei&layout=compact&langs_count=8&theme=dracula&exclude_repo=financial-manager-old"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raphaelfrei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a></div>    
 
