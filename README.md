@@ -28,15 +28,12 @@
   <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="30"/>
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256481/file-type-cobol-icon-md.png" width="30"/>
   <img src="https://veriklick.com/wp-content/uploads/2021/12/Assembly.png" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" width="30"/>
 </p>
 
 <h3>Databases</h3>
