@@ -1,5 +1,6 @@
 <h2>Hello!</h2>
 <h4>Welcome to my GitHub profile! </h4> 
+<h5>My name is Raphael Frei and I'm a software developer! Bellow, you'll find some of my personal projects...</h5>
 
 <div align="center">
   <a href="https://github.com/raphaelfrei">
@@ -20,15 +21,13 @@
 <p float="left" align="left">
   <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" width="30"/> 
   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="30"/>
 </p>
 
-<h3>Programming Languages</h3>
+<h3>Hobby</h3>
 <p float="left" align="left">
-  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"/>
@@ -45,14 +44,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/826px-Microsoft_Office_Excel_%282019–present%29.svg.png" width="30"/>
   <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="30"/>
-
-</p>
-
-<h3>IDE</h3>
-<p float="left" align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="30"/>
 </p>
 
 <h3>Web Development/Front End</h3>
