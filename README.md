@@ -13,7 +13,7 @@
 <h3>🥇Specialised in:</h3>
 <h5>
 1. OenEdge Progress 4GL <br>
-2. C#/.Net <br>
+2. C#/.NET <br>
 3. Batch Files
 </h5>
 
